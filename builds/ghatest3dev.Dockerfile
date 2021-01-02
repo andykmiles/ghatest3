@@ -1,4 +1,4 @@
-FROM {{proj}}
+FROM ghatest3
 SHELL ["/bin/zsh", "-c", "-o", "pipefail"]
 USER root
 
